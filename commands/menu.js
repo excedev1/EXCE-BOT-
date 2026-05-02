@@ -117,7 +117,7 @@ menu += `┗━━━━━━━━━━━━━━━
 
       if (device === "android") {
         await client.sendMessage(remoteJid, {
-          image: { url: "https://files.catbox.moe/579vvg.jpg" },
+          image: { url: "https://n.uguu.se/TrBFeNFr.jpg" },
           caption: stylizedChar(menu),
           contextInfo: {
             participant: "0@s.whatsapp.net",
